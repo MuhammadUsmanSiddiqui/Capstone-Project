@@ -9,9 +9,9 @@ Keywords: Automated Analysis Tool, Distribution Loads, Python, OpenDSS, IEEE 13 
 
 ## Authors
 
-[Muhammad Usman Siddiqui](https://github.com/MuhammadUsmanSiddiqui)
-[Muhammad Ali]()
-[Taher Qutubuddin]()
+[Muhammad Usman Siddiqui](https://github.com/MuhammadUsmanSiddiqui)  
+[Muhammad Ali]()  
+[Taher Qutubuddin]()  
 
 ## License
 
