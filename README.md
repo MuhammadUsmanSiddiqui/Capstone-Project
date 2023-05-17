@@ -1,4 +1,6 @@
-## Title: Automated Analysis Tool for Distribution Loads using Python/OpenDSS
+## Title
+
+Automated Analysis Tool for Distribution Loads using Python/OpenDSS
 
 ## Description
 
