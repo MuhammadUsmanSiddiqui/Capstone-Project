@@ -19,6 +19,8 @@ Once you have, you need run the following commands in your terminal/command prom
 pip install py-dss-interface, os, pathlib, matplotlib, numpy, math, folium, pandas
 ```
 
+Once all the dependencies are installed, you can simply run the Jupyter Notebook as is!
+
 ## Authors
 
 [Muhammad Usman Siddiqui](https://github.com/MuhammadUsmanSiddiqui)  
